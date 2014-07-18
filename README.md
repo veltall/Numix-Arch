@@ -1,12 +1,9 @@
-# Theme - Numix
+# Theme - Numix Blue - Sublime and Linux Theme
 
 ## Screenshots
 
-![](https://dl.dropboxusercontent.com/u/7263172/numix/window.png)
+![](https://drive.google.com/file/d/0B2JI4Sj_N6HJSnFwMkdNbUFQNG8/edit?usp=sharing)
 
-![](https://dl.dropboxusercontent.com/u/7263172/numix/search.png)
-
-![](https://dl.dropboxusercontent.com/u/7263172/numix/panel.png)
 
 ## Installation
 
